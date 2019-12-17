@@ -1,2 +1,1 @@
-# TG-effects
-TG Effects
+# TG Effects
